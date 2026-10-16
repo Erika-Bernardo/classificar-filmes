@@ -1,0 +1,14 @@
+[
+  {
+    "nome": "Minha mãe é uma peça",
+    "avaliações": [5, 4, 4, 4, 5]
+  },
+  {
+    "nome": "Saneamento Básico",
+    "avaliações": [3, 4, 2, 3, 4]
+  },
+  {
+    "nome": "Se eu fosse você",
+    "avaliações": [1, 2, 3]
+  }
+]

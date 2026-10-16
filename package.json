@@ -1,0 +1,14 @@
+{
+  "name": "classificar-filmes",
+  "version": "1.0.0",
+  "description": "Exercício 5 - cálculo e classificação de avaliações de filmes com testes automatizados.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2"
+  }
+}
